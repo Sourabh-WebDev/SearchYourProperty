@@ -1,0 +1,793 @@
+{
+  "appeals": [
+    {
+      "accountNo": "R0498275",
+      "taxYear": 2023,
+      "appealNo": 202305396,
+      "decision": "Adjust",
+      "reason": null
+    }
+  ],
+  "accountNumber": "R0498275",
+  "accountType": "Residential",
+  "appraisalType": "Real",
+  "stateParcelNumber": "234718201021",
+  "legalDescription": "LOT 9A PINERY 27 4TH AMD CORRECTED    0.817 AM/L  CP R0498276",
+  "taxDistrictNumber": "3590",
+  "zoningCode": "PD",
+  "zoningCodeDescription": "Planned Development",
+  "defaultLea": "1BB",
+  "defaultLeaDescription": "2ND HIGHEST SUBDIVISION MARKET",
+  "totalImprovementInterestPercent": 1.0,
+  "totalLandInterestPercent": 1.0,
+  "isVacant": true,
+  "isImprovementOnly": false,
+  "isTif": false,
+  "isPlatted": true,
+  "numberOfBuildings": "0",
+  "neighborhoods": [
+    {
+      "code": "109",
+      "extension": "I"
+    }
+  ],
+  "notifications": [
+    {
+      "id": 8,
+      "note": "Assessment Rates are unofficial and Mill Levies are unknown for the current year, and thus all taxes are estimates. Actual Values are published on every May 1st, while Assessment Rates are approved in the fall, and Mill Levies are certified each December."
+    },
+    {
+      "id": 1,
+      "note": "The 2026 Actual Value for this parcel reflects an Appraisal Date of June 30, 2024. Sale transactions that occurred after that date will be considered in the 2027 reassessment."
+    }
+  ],
+  "latitude": 39.44717592,
+  "longitude": -104.71753706,
+  "elevation": null,
+  "quartersection": "NW",
+  "section": "18",
+  "township": "7",
+  "range": "65",
+  "subdivision": {
+    "name": "PINERY",
+    "filingNumber": "27",
+    "recordingNumber": "2017075617"
+  },
+  "isPrivate": false,
+  "owners": [
+    {
+      "isPrimary": true,
+      "name": "PETER A MCGUIRE & MAUREEN ANN MCGUIRE",
+      "mailingAddress": {
+        "street": "5605 PONDEROSA DR",
+        "street2": null,
+        "city": "PARKER",
+        "state": "CO",
+        "zipCode": "801345532"
+      }
+    }
+  ],
+  "addresses": [
+    {
+      "isPrimary": true,
+      "street": "5851 HIDDEN OAKS CT ",
+      "city": "PARKER",
+      "zipCode": "80134"
+    }
+  ],
+  "taxAuthorities": [
+    {
+      "id": "0001",
+      "name": "Ridgeview County Government",
+      "pointOfContact": "Martha Marshall",
+      "contactPhone": "3036607340",
+      "street": "Ridgeview County Finance",
+      "street2": "100 Third St",
+      "city": "Castle Rock",
+      "zipCode": "80104",
+      "funds": [
+        {
+          "description": "ROAD & BRIDGE FUND LEVY",
+          "millLevy": 3.731,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "SAFETY & MENTAL HEALTH",
+          "millLevy": 0.416,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "RESERVE",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "SOCIAL SERVICES FUND LEVY",
+          "millLevy": 0.469,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "CAPITAL EXPENDITURES FUND LEVY",
+          "millLevy": 0.15,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "DEVELOPMENTAL DISABILITY LEVY",
+          "millLevy": 1.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "INFRASTRUCTURE",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 14.008,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "0002",
+      "name": "Ridgeview County Law Enforcement",
+      "pointOfContact": "Martha Marshall",
+      "contactPhone": "3036607340",
+      "street": "Ridgeview County Finance",
+      "street2": "100 Third St",
+      "city": "Castle Rock",
+      "zipCode": "80104",
+      "funds": [
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 4.5,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "CAPITAL EXPENDITURES FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "2001",
+      "name": "Ridgeview County Re-1 School District",
+      "pointOfContact": "Drew Phelps",
+      "contactPhone": "7204331123",
+      "street": null,
+      "street2": "701 Prairie Hawk Dr",
+      "city": "Castle Rock",
+      "zipCode": "80109",
+      "funds": [
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.459
+        },
+        {
+          "description": "BOND REDEMPTION LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "TRANSPORTATION",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "OVERRIDE MILL LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 12.293
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 27.0
+        },
+        {
+          "description": "BUILDING AND TECHNOLOGY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "2004",
+      "name": "Ridgeview County Schools - Debt Service",
+      "pointOfContact": "Drew Phelps",
+      "contactPhone": "7204331123",
+      "street": null,
+      "street2": "701 Prairie Hawk Dr",
+      "city": "Castle Rock",
+      "zipCode": "80109",
+      "funds": [
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "BUILDING AND TECHNOLOGY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "BOND REDEMPTION LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 5.776
+        },
+        {
+          "description": "TRANSPORTATION",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "4002",
+      "name": "Urban Drainage & Flood Control District",
+      "pointOfContact": "Terri Schafer",
+      "contactPhone": "3034556277",
+      "street": "Mile High Flood District",
+      "street2": "12575 W Bayaud Ave",
+      "city": "Lakewood",
+      "zipCode": "80228",
+      "funds": [
+        {
+          "description": "CAPITAL EXPENDITURES FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.9,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "4010",
+      "name": "Regional Transportation District",
+      "pointOfContact": "Todd Nikkel",
+      "contactPhone": "3032992314",
+      "street": null,
+      "street2": "1660 Blake St, FAS-51",
+      "city": "Denver",
+      "zipCode": "80202",
+      "funds": [
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "CAPITAL EXPENDITURES FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "4011",
+      "name": "Denver SE Suburban Water & Sanitation District",
+      "pointOfContact": "Heather W Beasley",
+      "contactPhone": "3038412797",
+      "street": null,
+      "street2": "5242 Old Schoolhouse Rd",
+      "city": "Parker",
+      "zipCode": "80134",
+      "funds": [
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "CAPITAL EXPENDITURES FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "4014",
+      "name": "South Metro Fire Rescue Fire Protection District",
+      "pointOfContact": "Mike Dell'orfano",
+      "contactPhone": "7209892000",
+      "street": null,
+      "street2": "9195 E Mineral Ave",
+      "city": "Centennial",
+      "zipCode": "80112",
+      "funds": [
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 12.25,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "CAPITAL EXPENDITURES FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "4077",
+      "name": "Ridgeview County Soil Conservation District",
+      "pointOfContact": "Pam Brewster",
+      "contactPhone": "3036883042",
+      "street": null,
+      "street2": "PO Box 688",
+      "city": "Franktown",
+      "zipCode": "80116",
+      "funds": [
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "CAPITAL EXPENDITURES FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "4330",
+      "name": "High Prairie Farms Metro District",
+      "pointOfContact": "Stephanie Odewumi",
+      "contactPhone": "3037795710",
+      "street": "CliftonLarsonAllen LLP",
+      "street2": "2001 16th Street  Ste 1700",
+      "city": "Denver",
+      "zipCode": "80202",
+      "funds": [
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 12.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "CAPITAL EXPENDITURES FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "4340",
+      "name": "Cherry Creek Basin Water Quality Authority",
+      "pointOfContact": "Administer Cherry Creek Basin Authority",
+      "contactPhone": "3039689098",
+      "street": null,
+      "street2": "PO Box 3166",
+      "city": "Centennial",
+      "zipCode": "80161",
+      "funds": [
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "CAPITAL EXPENDITURES FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.5,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": -0.05,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "4390",
+      "name": "Ridgeview Public Library District",
+      "pointOfContact": "Bob Pasicznyuk",
+      "contactPhone": "3036887656",
+      "street": null,
+      "street2": "100 S Wilcox St",
+      "city": "Castle Rock",
+      "zipCode": "80104",
+      "funds": [
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": -0.481,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 4.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "CAPITAL EXPENDITURES FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "4392",
+      "name": "Urban Drainage & Flood South Platte",
+      "pointOfContact": "Terri Schafer",
+      "contactPhone": "3034556277",
+      "street": "Mile High Flood District",
+      "street2": "12575 W Bayaud Ave",
+      "city": "Lakewood",
+      "zipCode": "80228",
+      "funds": [
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "CAPITAL EXPENDITURES FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.1,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "4598",
+      "name": "Timbers Metro District",
+      "pointOfContact": "Marcos Pacheco",
+      "contactPhone": "3033814960",
+      "street": "Community Resource Services of CO LLC",
+      "street2": "7995 E Prentice Ave  Ste 103E",
+      "city": "Greenwood Village",
+      "zipCode": "80203",
+      "funds": [
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 10.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "CAPITAL EXPENDITURES FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "BOND REDEMPTION LEVY",
+          "millLevy": 25.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": -5.5,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    }
+  ],
+  "valuesByAbstractCode": [
+    {
+      "taxYear": 2026.0,
+      "abstractCode": "1112CP",
+      "abstractCodeDescription": "CONTIGUOUS RESIDENTIAL LAND",
+      "netAcres": 0.817,
+      "actualValue": 386371.0,
+      "assessedValue": 26270.0,
+      "millLevy": 82.993,
+      "taxDollars": 2180.23,
+      "assessmentRate": 0.068,
+      "alternateAssessedValue": 27240.0,
+      "alternateMillLevy": 45.528,
+      "alternateTaxDollars": 1240.18,
+      "alternateAssessedRate": 0.0705
+    },
+    {
+      "taxYear": 2025.0,
+      "abstractCode": "1112CP",
+      "abstractCodeDescription": "CONTIGUOUS RESIDENTIAL LAND",
+      "netAcres": 0.817,
+      "actualValue": 386371.0,
+      "assessedValue": 24150.0,
+      "millLevy": 82.993,
+      "taxDollars": 2004.28,
+      "assessmentRate": 0.0625,
+      "alternateAssessedValue": 27240.0,
+      "alternateMillLevy": 45.528,
+      "alternateTaxDollars": 1240.18,
+      "alternateAssessedRate": 0.0705
+    },
+    {
+      "taxYear": 2024.0,
+      "abstractCode": "1112CP",
+      "abstractCodeDescription": "CONTIGUOUS RESIDENTIAL LAND",
+      "netAcres": 0.817,
+      "actualValue": 360000.0,
+      "assessedValue": 24120.0,
+      "millLevy": 125.474,
+      "taxDollars": 3026.43,
+      "assessmentRate": 0.067,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2023.0,
+      "abstractCode": "1112CP",
+      "abstractCodeDescription": "CONTIGUOUS RESIDENTIAL LAND",
+      "netAcres": 0.817,
+      "actualValue": 360000.0,
+      "assessedValue": 24120.0,
+      "millLevy": 126.396,
+      "taxDollars": 3048.67,
+      "assessmentRate": 0.067,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2022.0,
+      "abstractCode": "1112CP",
+      "abstractCodeDescription": "CONTIGUOUS RESIDENTIAL LAND",
+      "netAcres": 0.817,
+      "actualValue": 245364.0,
+      "assessedValue": 17050.0,
+      "millLevy": 122.656,
+      "taxDollars": 2091.28,
+      "assessmentRate": 0.0695,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2021.0,
+      "abstractCode": "1112CP",
+      "abstractCodeDescription": "CONTIGUOUS RESIDENTIAL LAND",
+      "netAcres": 0.817,
+      "actualValue": 245364.0,
+      "assessedValue": 17540.0,
+      "millLevy": 123.64,
+      "taxDollars": 2168.65,
+      "assessmentRate": 0.0715,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2017.0,
+      "abstractCode": "0100",
+      "abstractCodeDescription": "RESIDENTIAL VACANT LOTS",
+      "netAcres": 0.817,
+      "actualValue": 87629.0,
+      "assessedValue": 25410.0,
+      "millLevy": 119.551,
+      "taxDollars": 3037.79,
+      "assessmentRate": 0.29,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2020.0,
+      "abstractCode": "0100",
+      "abstractCodeDescription": "RESIDENTIAL VACANT LOTS",
+      "netAcres": 0.817,
+      "actualValue": 180823.0,
+      "assessedValue": 52440.0,
+      "millLevy": 124.018,
+      "taxDollars": 6503.5,
+      "assessmentRate": 0.29,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2018.0,
+      "abstractCode": "0100",
+      "abstractCodeDescription": "RESIDENTIAL VACANT LOTS",
+      "netAcres": 0.817,
+      "actualValue": 106891.0,
+      "assessedValue": 31000.0,
+      "millLevy": 125.781,
+      "taxDollars": 3899.21,
+      "assessmentRate": 0.29,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2019.0,
+      "abstractCode": "0100",
+      "abstractCodeDescription": "RESIDENTIAL VACANT LOTS",
+      "netAcres": 0.817,
+      "actualValue": 169720.0,
+      "assessedValue": 49220.0,
+      "millLevy": 124.334,
+      "taxDollars": 6119.72,
+      "assessmentRate": 0.29,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    }
+  ],
+  "sales": [
+    {
+      "recordingNumber": "2018069502",
+      "grantor": "TIMBERS DEVELOPMENT GROUP INC",
+      "grantee": "JW LUXURY HOMES INC",
+      "date": "2018-11-15T00:00:00",
+      "price": 160000.0,
+      "deedType": "Special Warranty Deed",
+      "book": null,
+      "page": null,
+      "isValid1": true,
+      "isImproved": false
+    },
+    {
+      "recordingNumber": "2020019459",
+      "grantor": "JW LUXURY HOMES INC",
+      "grantee": "PETER A MCGUIRE & MAUREEN ANN MCGUIRE",
+      "date": "2020-03-13T00:00:00",
+      "price": 200000.0,
+      "deedType": "Special Warranty Deed Joint",
+      "book": null,
+      "page": null,
+      "isValid1": true,
+      "isImproved": false
+    }
+  ],
+  "buildings": [],
+  "landAttributes": [
+    {
+      "attributeType": "CRN-M",
+      "attributeTypeDescription": "Corner Lot-M",
+      "attributeAdjustment": 0.99
+    }
+  ],
+  "landSegments": [
+    {
+      "abstractCode": "1112CP",
+      "abstractCodeDescription": "CONTIGUOUS RESIDENTIAL LAND",
+      "type": "Residential",
+      "acres": 0.817,
+      "actualValue": 386370.69
+    }
+  ],
+  "buildingPermitAuthority": {
+    "name": "Ridgeview County",
+    "phone": "303-660-7497",
+    "email": null,
+    "url": "https://www.ridgeviewcounty.example/building-permits",
+    "street": "100 Third Street",
+    "city": "Castle Rock",
+    "zipCode": "80104"
+  },
+  "novTaxYears": [
+    2026.0,
+    2024.0,
+    2025.0
+  ],
+  "ppAccount": null
+}

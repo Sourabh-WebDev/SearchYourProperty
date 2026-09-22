@@ -1,0 +1,1536 @@
+{
+  "appeals": [
+    {
+      "accountNo": "R0048303",
+      "taxYear": 2023,
+      "appealNo": 202309862,
+      "decision": "Deny",
+      "reason": null
+    }
+  ],
+  "accountNumber": "R0048303",
+  "accountType": "Residential",
+  "appraisalType": "Real",
+  "stateParcelNumber": "234913205011",
+  "legalDescription": "LOT 14 BLK 6 THE PINERY 5 AMENDED   0.246 AM/L  LSP 3702",
+  "taxDistrictNumber": "0367",
+  "zoningCode": "PD",
+  "zoningCodeDescription": "Planned Development",
+  "defaultLea": "1EE",
+  "defaultLeaDescription": "5TH HIGHEST SUBDIVISION MARKET",
+  "totalImprovementInterestPercent": 1.0,
+  "totalLandInterestPercent": 1.0,
+  "isVacant": false,
+  "isImprovementOnly": false,
+  "isTif": false,
+  "isPlatted": true,
+  "numberOfBuildings": "1",
+  "neighborhoods": [
+    {
+      "code": "109",
+      "extension": "H"
+    }
+  ],
+  "notifications": [
+    {
+      "id": 1,
+      "note": "The 2026 Actual Value for this parcel reflects an Appraisal Date of June 30, 2024. Sale transactions that occurred after that date will be considered in the 2027 reassessment."
+    },
+    {
+      "id": 8,
+      "note": "Assessment Rates are unofficial and Mill Levies are unknown for the current year, and thus all taxes are estimates. Actual Values are published on every May 1st, while Assessment Rates are approved in the fall, and Mill Levies are certified each December."
+    }
+  ],
+  "latitude": 39.44734936,
+  "longitude": -104.73728244,
+  "elevation": null,
+  "quartersection": "NW",
+  "section": "13",
+  "township": "7",
+  "range": "66",
+  "subdivision": {
+    "name": "PINERY",
+    "filingNumber": "5",
+    "recordingNumber": "0144651"
+  },
+  "isPrivate": false,
+  "owners": [
+    {
+      "isPrimary": true,
+      "name": "SHARON G PISANI & RONNIE P PISANI",
+      "mailingAddress": {
+        "street": "5851 CANTRELL CT",
+        "street2": null,
+        "city": "PARKER",
+        "state": "CO",
+        "zipCode": "801345801"
+      }
+    }
+  ],
+  "addresses": [
+    {
+      "isPrimary": true,
+      "street": "5851 CANTRELL CT ",
+      "city": "PARKER",
+      "zipCode": "801340000"
+    }
+  ],
+  "taxAuthorities": [
+    {
+      "id": "0001",
+      "name": "Ridgeview County Government",
+      "pointOfContact": "Martha Marshall",
+      "contactPhone": "3036607340",
+      "street": "Ridgeview County Finance",
+      "street2": "100 Third St",
+      "city": "Castle Rock",
+      "zipCode": "80104",
+      "funds": [
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 14.008,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "CAPITAL EXPENDITURES FUND LEVY",
+          "millLevy": 0.15,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "SAFETY & MENTAL HEALTH",
+          "millLevy": 0.416,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "ROAD & BRIDGE FUND LEVY",
+          "millLevy": 3.731,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "RESERVE",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "SOCIAL SERVICES FUND LEVY",
+          "millLevy": 0.469,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "INFRASTRUCTURE",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "DEVELOPMENTAL DISABILITY LEVY",
+          "millLevy": 1.0,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "0002",
+      "name": "Ridgeview County Law Enforcement",
+      "pointOfContact": "Martha Marshall",
+      "contactPhone": "3036607340",
+      "street": "Ridgeview County Finance",
+      "street2": "100 Third St",
+      "city": "Castle Rock",
+      "zipCode": "80104",
+      "funds": [
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 4.5,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "CAPITAL EXPENDITURES FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "2001",
+      "name": "Ridgeview County Re-1 School District",
+      "pointOfContact": "Drew Phelps",
+      "contactPhone": "7204331123",
+      "street": null,
+      "street2": "701 Prairie Hawk Dr",
+      "city": "Castle Rock",
+      "zipCode": "80109",
+      "funds": [
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.459
+        },
+        {
+          "description": "OVERRIDE MILL LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 12.293
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 27.0
+        },
+        {
+          "description": "BUILDING AND TECHNOLOGY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "BOND REDEMPTION LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "TRANSPORTATION",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "2004",
+      "name": "Ridgeview County Schools - Debt Service",
+      "pointOfContact": "Drew Phelps",
+      "contactPhone": "7204331123",
+      "street": null,
+      "street2": "701 Prairie Hawk Dr",
+      "city": "Castle Rock",
+      "zipCode": "80109",
+      "funds": [
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "BUILDING AND TECHNOLOGY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "BOND REDEMPTION LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 5.776
+        },
+        {
+          "description": "TRANSPORTATION",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "4002",
+      "name": "Urban Drainage & Flood Control District",
+      "pointOfContact": "Terri Schafer",
+      "contactPhone": "3034556277",
+      "street": "Mile High Flood District",
+      "street2": "12575 W Bayaud Ave",
+      "city": "Lakewood",
+      "zipCode": "80228",
+      "funds": [
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.9,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "CAPITAL EXPENDITURES FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "4010",
+      "name": "Regional Transportation District",
+      "pointOfContact": "Todd Nikkel",
+      "contactPhone": "3032992314",
+      "street": null,
+      "street2": "1660 Blake St, FAS-51",
+      "city": "Denver",
+      "zipCode": "80202",
+      "funds": [
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "CAPITAL EXPENDITURES FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "4011",
+      "name": "Denver SE Suburban Water & Sanitation District",
+      "pointOfContact": "Heather W Beasley",
+      "contactPhone": "3038412797",
+      "street": null,
+      "street2": "5242 Old Schoolhouse Rd",
+      "city": "Parker",
+      "zipCode": "80134",
+      "funds": [
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "CAPITAL EXPENDITURES FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "4014",
+      "name": "South Metro Fire Rescue Fire Protection District",
+      "pointOfContact": "Mike Dell'orfano",
+      "contactPhone": "7209892000",
+      "street": null,
+      "street2": "9195 E Mineral Ave",
+      "city": "Centennial",
+      "zipCode": "80112",
+      "funds": [
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "CAPITAL EXPENDITURES FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 12.25,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "4077",
+      "name": "Ridgeview County Soil Conservation District",
+      "pointOfContact": "Pam Brewster",
+      "contactPhone": "3036883042",
+      "street": null,
+      "street2": "PO Box 688",
+      "city": "Franktown",
+      "zipCode": "80116",
+      "funds": [
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "CAPITAL EXPENDITURES FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "4340",
+      "name": "Cherry Creek Basin Water Quality Authority",
+      "pointOfContact": "Administer Cherry Creek Basin Authority",
+      "contactPhone": "3039689098",
+      "street": null,
+      "street2": "PO Box 3166",
+      "city": "Centennial",
+      "zipCode": "80161",
+      "funds": [
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": -0.05,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.5,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "CAPITAL EXPENDITURES FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "4390",
+      "name": "Ridgeview Public Library District",
+      "pointOfContact": "Bob Pasicznyuk",
+      "contactPhone": "3036887656",
+      "street": null,
+      "street2": "100 S Wilcox St",
+      "city": "Castle Rock",
+      "zipCode": "80104",
+      "funds": [
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": -0.481,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 4.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "CAPITAL EXPENDITURES FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "4392",
+      "name": "Urban Drainage & Flood South Platte",
+      "pointOfContact": "Terri Schafer",
+      "contactPhone": "3034556277",
+      "street": "Mile High Flood District",
+      "street2": "12575 W Bayaud Ave",
+      "city": "Lakewood",
+      "zipCode": "80228",
+      "funds": [
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.1,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "CAPITAL EXPENDITURES FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    }
+  ],
+  "valuesByAbstractCode": [
+    {
+      "taxYear": 2024.0,
+      "abstractCode": "1112",
+      "abstractCodeDescription": "IMPROVED RESIDENTIAL LAND",
+      "netAcres": 0.246,
+      "actualValue": 156683.0,
+      "assessedValue": 10500.0,
+      "millLevy": 83.474,
+      "taxDollars": 876.48,
+      "assessmentRate": 0.067,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2023.0,
+      "abstractCode": "1212",
+      "abstractCodeDescription": "SINGLE FAMILY RES - IMPS",
+      "netAcres": 0.0,
+      "actualValue": 694804.0,
+      "assessedValue": 46550.0,
+      "millLevy": 84.396,
+      "taxDollars": 3928.63,
+      "assessmentRate": 0.067,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2024.0,
+      "abstractCode": "1212",
+      "abstractCodeDescription": "SINGLE FAMILY RES - IMPS",
+      "netAcres": 0.0,
+      "actualValue": 694804.0,
+      "assessedValue": 46550.0,
+      "millLevy": 83.474,
+      "taxDollars": 3885.71,
+      "assessmentRate": 0.067,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2023.0,
+      "abstractCode": "1112",
+      "abstractCodeDescription": "IMPROVED RESIDENTIAL LAND",
+      "netAcres": 0.246,
+      "actualValue": 156683.0,
+      "assessedValue": 10500.0,
+      "millLevy": 84.396,
+      "taxDollars": 886.16,
+      "assessmentRate": 0.067,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2022.0,
+      "abstractCode": "1212",
+      "abstractCodeDescription": "SINGLE FAMILY RES - IMPS",
+      "netAcres": 0.0,
+      "actualValue": 442044.0,
+      "assessedValue": 30720.0,
+      "millLevy": 80.656,
+      "taxDollars": 2477.75,
+      "assessmentRate": 0.0695,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2022.0,
+      "abstractCode": "1112",
+      "abstractCodeDescription": "IMPROVED RESIDENTIAL LAND",
+      "netAcres": 0.246,
+      "actualValue": 87591.0,
+      "assessedValue": 6090.0,
+      "millLevy": 80.656,
+      "taxDollars": 491.2,
+      "assessmentRate": 0.0695,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2021.0,
+      "abstractCode": "1212",
+      "abstractCodeDescription": "SINGLE FAMILY RES - IMPS",
+      "netAcres": 0.0,
+      "actualValue": 442044.0,
+      "assessedValue": 31610.0,
+      "millLevy": 81.64,
+      "taxDollars": 2580.64,
+      "assessmentRate": 0.0715,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2021.0,
+      "abstractCode": "1112",
+      "abstractCodeDescription": "IMPROVED RESIDENTIAL LAND",
+      "netAcres": 0.246,
+      "actualValue": 87591.0,
+      "assessedValue": 6260.0,
+      "millLevy": 81.64,
+      "taxDollars": 511.07,
+      "assessmentRate": 0.0715,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2020.0,
+      "abstractCode": "1212",
+      "abstractCodeDescription": "SINGLE FAMILY RES - IMPS",
+      "netAcres": 0.0,
+      "actualValue": 388304.0,
+      "assessedValue": 27760.0,
+      "millLevy": 82.018,
+      "taxDollars": 2276.82,
+      "assessmentRate": 0.072,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2020.0,
+      "abstractCode": "1112",
+      "abstractCodeDescription": "IMPROVED RESIDENTIAL LAND",
+      "netAcres": 0.246,
+      "actualValue": 80999.0,
+      "assessedValue": 5790.0,
+      "millLevy": 82.018,
+      "taxDollars": 474.88,
+      "assessmentRate": 0.072,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2019.0,
+      "abstractCode": "1212",
+      "abstractCodeDescription": "SINGLE FAMILY RES - IMPS",
+      "netAcres": 0.0,
+      "actualValue": 388304.0,
+      "assessedValue": 27760.0,
+      "millLevy": 82.334,
+      "taxDollars": 2285.59,
+      "assessmentRate": 0.072,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2019.0,
+      "abstractCode": "1112",
+      "abstractCodeDescription": "IMPROVED RESIDENTIAL LAND",
+      "netAcres": 0.246,
+      "actualValue": 80999.0,
+      "assessedValue": 5790.0,
+      "millLevy": 82.334,
+      "taxDollars": 476.71,
+      "assessmentRate": 0.072,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2025.0,
+      "abstractCode": "1112",
+      "abstractCodeDescription": "IMPROVED RESIDENTIAL LAND",
+      "netAcres": 0.246,
+      "actualValue": 164419.0,
+      "assessedValue": 10280.0,
+      "millLevy": 41.493,
+      "taxDollars": 426.55,
+      "assessmentRate": 0.0625,
+      "alternateAssessedValue": 11590.0,
+      "alternateMillLevy": 45.528,
+      "alternateTaxDollars": 527.67,
+      "alternateAssessedRate": 0.0705
+    },
+    {
+      "taxYear": 2025.0,
+      "abstractCode": "1212",
+      "abstractCodeDescription": "SINGLE FAMILY RES - IMPS",
+      "netAcres": 0.0,
+      "actualValue": 603097.0,
+      "assessedValue": 37690.0,
+      "millLevy": 41.493,
+      "taxDollars": 1563.87,
+      "assessmentRate": 0.0625,
+      "alternateAssessedValue": 42520.0,
+      "alternateMillLevy": 45.528,
+      "alternateTaxDollars": 1935.85,
+      "alternateAssessedRate": 0.0705
+    },
+    {
+      "taxYear": 2026.0,
+      "abstractCode": "1112",
+      "abstractCodeDescription": "IMPROVED RESIDENTIAL LAND",
+      "netAcres": 0.246,
+      "actualValue": 164419.0,
+      "assessedValue": 11180.0,
+      "millLevy": 41.493,
+      "taxDollars": 463.89,
+      "assessmentRate": 0.068,
+      "alternateAssessedValue": 11590.0,
+      "alternateMillLevy": 45.528,
+      "alternateTaxDollars": 527.67,
+      "alternateAssessedRate": 0.0705
+    },
+    {
+      "taxYear": 2026.0,
+      "abstractCode": "1212",
+      "abstractCodeDescription": "SINGLE FAMILY RES - IMPS",
+      "netAcres": 0.0,
+      "actualValue": 603097.0,
+      "assessedValue": 41010.0,
+      "millLevy": 41.493,
+      "taxDollars": 1701.63,
+      "assessmentRate": 0.068,
+      "alternateAssessedValue": 42520.0,
+      "alternateMillLevy": 45.528,
+      "alternateTaxDollars": 1935.85,
+      "alternateAssessedRate": 0.0705
+    },
+    {
+      "taxYear": 2018.0,
+      "abstractCode": "1212",
+      "abstractCodeDescription": "SINGLE FAMILY RES - IMPS",
+      "netAcres": 0.0,
+      "actualValue": 329582.0,
+      "assessedValue": 23730.0,
+      "millLevy": 83.781,
+      "taxDollars": 1988.12,
+      "assessmentRate": 0.072,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2018.0,
+      "abstractCode": "1112",
+      "abstractCodeDescription": "IMPROVED RESIDENTIAL LAND",
+      "netAcres": 0.246,
+      "actualValue": 75857.0,
+      "assessedValue": 5460.0,
+      "millLevy": 83.781,
+      "taxDollars": 457.44,
+      "assessmentRate": 0.072,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2017.0,
+      "abstractCode": "1212",
+      "abstractCodeDescription": "SINGLE FAMILY RES - IMPS",
+      "netAcres": 0.0,
+      "actualValue": 329582.0,
+      "assessedValue": 23730.0,
+      "millLevy": 77.551,
+      "taxDollars": 1840.29,
+      "assessmentRate": 0.0796,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2017.0,
+      "abstractCode": "1112",
+      "abstractCodeDescription": "IMPROVED RESIDENTIAL LAND",
+      "netAcres": 0.246,
+      "actualValue": 75857.0,
+      "assessedValue": 5460.0,
+      "millLevy": 77.551,
+      "taxDollars": 423.43,
+      "assessmentRate": 0.0796,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2016.0,
+      "abstractCode": "1212",
+      "abstractCodeDescription": "SINGLE FAMILY RES - IMPS",
+      "netAcres": 0.0,
+      "actualValue": 291121.0,
+      "assessedValue": 23170.0,
+      "millLevy": 79.197,
+      "taxDollars": 1834.99,
+      "assessmentRate": 0.0796,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2016.0,
+      "abstractCode": "1112",
+      "abstractCodeDescription": "IMPROVED RESIDENTIAL LAND",
+      "netAcres": 0.246,
+      "actualValue": 60000.0,
+      "assessedValue": 4780.0,
+      "millLevy": 79.197,
+      "taxDollars": 378.56,
+      "assessmentRate": 0.0796,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2015.0,
+      "abstractCode": "1212",
+      "abstractCodeDescription": "SINGLE FAMILY RES - IMPS",
+      "netAcres": 0.0,
+      "actualValue": 291121.0,
+      "assessedValue": 23170.0,
+      "millLevy": 81.214,
+      "taxDollars": 1881.73,
+      "assessmentRate": 0.0796,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2015.0,
+      "abstractCode": "1112",
+      "abstractCodeDescription": "IMPROVED RESIDENTIAL LAND",
+      "netAcres": 0.246,
+      "actualValue": 60000.0,
+      "assessedValue": 4780.0,
+      "millLevy": 81.214,
+      "taxDollars": 388.2,
+      "assessmentRate": 0.0796,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2006.0,
+      "abstractCode": "1112",
+      "abstractCodeDescription": "IMPROVED RESIDENTIAL LAND",
+      "netAcres": 0.246,
+      "actualValue": 78000.0,
+      "assessedValue": 6210.0,
+      "millLevy": 91.702,
+      "taxDollars": 569.47,
+      "assessmentRate": 0.0796,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2006.0,
+      "abstractCode": "1212",
+      "abstractCodeDescription": "SINGLE FAMILY RES - IMPS",
+      "netAcres": 0.0,
+      "actualValue": 231207.0,
+      "assessedValue": 18400.0,
+      "millLevy": 91.702,
+      "taxDollars": 1687.32,
+      "assessmentRate": 0.0796,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2007.0,
+      "abstractCode": "1112",
+      "abstractCodeDescription": "IMPROVED RESIDENTIAL LAND",
+      "netAcres": 0.246,
+      "actualValue": 90000.0,
+      "assessedValue": 7160.0,
+      "millLevy": 89.96,
+      "taxDollars": 644.11,
+      "assessmentRate": 0.0796,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2007.0,
+      "abstractCode": "1212",
+      "abstractCodeDescription": "SINGLE FAMILY RES - IMPS",
+      "netAcres": 0.0,
+      "actualValue": 249044.0,
+      "assessedValue": 19820.0,
+      "millLevy": 89.96,
+      "taxDollars": 1783.01,
+      "assessmentRate": 0.0796,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2008.0,
+      "abstractCode": "1112",
+      "abstractCodeDescription": "IMPROVED RESIDENTIAL LAND",
+      "netAcres": 0.246,
+      "actualValue": 90000.0,
+      "assessedValue": 7160.0,
+      "millLevy": 90.643,
+      "taxDollars": 649.0,
+      "assessmentRate": 0.0796,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2008.0,
+      "abstractCode": "1212",
+      "abstractCodeDescription": "SINGLE FAMILY RES - IMPS",
+      "netAcres": 0.0,
+      "actualValue": 249044.0,
+      "assessedValue": 19820.0,
+      "millLevy": 90.643,
+      "taxDollars": 1796.54,
+      "assessmentRate": 0.0796,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2009.0,
+      "abstractCode": "1112",
+      "abstractCodeDescription": "IMPROVED RESIDENTIAL LAND",
+      "netAcres": 0.246,
+      "actualValue": 104000.0,
+      "assessedValue": 8280.0,
+      "millLevy": 89.958,
+      "taxDollars": 744.85,
+      "assessmentRate": 0.0796,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2009.0,
+      "abstractCode": "1212",
+      "abstractCodeDescription": "SINGLE FAMILY RES - IMPS",
+      "netAcres": 0.0,
+      "actualValue": 236368.0,
+      "assessedValue": 18810.0,
+      "millLevy": 89.958,
+      "taxDollars": 1692.11,
+      "assessmentRate": 0.0796,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2014.0,
+      "abstractCode": "1212",
+      "abstractCodeDescription": "SINGLE FAMILY RES - IMPS",
+      "netAcres": 0.0,
+      "actualValue": 265241.0,
+      "assessedValue": 21110.0,
+      "millLevy": 90.836,
+      "taxDollars": 1917.55,
+      "assessmentRate": 0.0796,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2014.0,
+      "abstractCode": "1112",
+      "abstractCodeDescription": "IMPROVED RESIDENTIAL LAND",
+      "netAcres": 0.246,
+      "actualValue": 40000.0,
+      "assessedValue": 3180.0,
+      "millLevy": 90.836,
+      "taxDollars": 288.86,
+      "assessmentRate": 0.0796,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2013.0,
+      "abstractCode": "1212",
+      "abstractCodeDescription": "SINGLE FAMILY RES - IMPS",
+      "netAcres": 0.0,
+      "actualValue": 265241.0,
+      "assessedValue": 21110.0,
+      "millLevy": 90.848,
+      "taxDollars": 1917.8,
+      "assessmentRate": 0.0796,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2013.0,
+      "abstractCode": "1112",
+      "abstractCodeDescription": "IMPROVED RESIDENTIAL LAND",
+      "netAcres": 0.246,
+      "actualValue": 40000.0,
+      "assessedValue": 3180.0,
+      "millLevy": 90.848,
+      "taxDollars": 288.9,
+      "assessmentRate": 0.0796,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2012.0,
+      "abstractCode": "1212",
+      "abstractCodeDescription": "SINGLE FAMILY RES - IMPS",
+      "netAcres": 0.0,
+      "actualValue": 235632.0,
+      "assessedValue": 18760.0,
+      "millLevy": 92.446,
+      "taxDollars": 1734.29,
+      "assessmentRate": 0.0796,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2010.0,
+      "abstractCode": "1112",
+      "abstractCodeDescription": "IMPROVED RESIDENTIAL LAND",
+      "netAcres": 0.246,
+      "actualValue": 104000.0,
+      "assessedValue": 8280.0,
+      "millLevy": 90.344,
+      "taxDollars": 748.05,
+      "assessmentRate": 0.0796,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2010.0,
+      "abstractCode": "1212",
+      "abstractCodeDescription": "SINGLE FAMILY RES - IMPS",
+      "netAcres": 0.0,
+      "actualValue": 236368.0,
+      "assessedValue": 18810.0,
+      "millLevy": 90.344,
+      "taxDollars": 1699.37,
+      "assessmentRate": 0.0796,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2011.0,
+      "abstractCode": "1112",
+      "abstractCodeDescription": "IMPROVED RESIDENTIAL LAND",
+      "netAcres": 0.246,
+      "actualValue": 80000.0,
+      "assessedValue": 6370.0,
+      "millLevy": 92.501,
+      "taxDollars": 589.23,
+      "assessmentRate": 0.0796,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2011.0,
+      "abstractCode": "1212",
+      "abstractCodeDescription": "SINGLE FAMILY RES - IMPS",
+      "netAcres": 0.0,
+      "actualValue": 235632.0,
+      "assessedValue": 18760.0,
+      "millLevy": 92.501,
+      "taxDollars": 1735.32,
+      "assessmentRate": 0.0796,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2012.0,
+      "abstractCode": "1112",
+      "abstractCodeDescription": "IMPROVED RESIDENTIAL LAND",
+      "netAcres": 0.246,
+      "actualValue": 80000.0,
+      "assessedValue": 6370.0,
+      "millLevy": 92.446,
+      "taxDollars": 588.88,
+      "assessmentRate": 0.0796,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    }
+  ],
+  "sales": [
+    {
+      "recordingNumber": "8921708",
+      "grantor": "DAVID E YAKICH & CARRIE E YAKICH",
+      "grantee": "THOMAS R BURMAN & GLORIA J BURMAN",
+      "date": "1989-09-18T00:00:00",
+      "price": 132000.0,
+      "deedType": "Warranty Deed",
+      "book": "873",
+      "page": "806",
+      "isValid1": true,
+      "isImproved": true
+    },
+    {
+      "recordingNumber": "2014030279",
+      "grantor": "MINNIE M SKINNER & DANIEL SKINNER",
+      "grantee": "MINNIE M SKINNER & DANIEL SKINNER & JONATHAN D SKINNER",
+      "date": "2014-05-23T00:00:00",
+      "price": 0.0,
+      "deedType": "Quit Claim Joint",
+      "book": null,
+      "page": null,
+      "isValid1": false,
+      "isImproved": true
+    },
+    {
+      "recordingNumber": "9544936",
+      "grantor": "KATHLEEN A ZULEVIC",
+      "grantee": "MICHAEL F ZULEVIC",
+      "date": "1995-09-14T00:00:00",
+      "price": 0.0,
+      "deedType": "Quit Claim",
+      "book": "1289",
+      "page": "2297",
+      "isValid1": false,
+      "isImproved": false
+    },
+    {
+      "recordingNumber": "2005048301",
+      "grantor": "DAVID M SKINNER & MINNIE M SKINNER",
+      "grantee": "DAVID M SKINNER & MINNIE M SKINNER & DANIEL SKINNER",
+      "date": "2005-05-03T00:00:00",
+      "price": 0.0,
+      "deedType": "Special Warranty Deed Joint",
+      "book": null,
+      "page": null,
+      "isValid1": false,
+      "isImproved": false
+    },
+    {
+      "recordingNumber": "9619729",
+      "grantor": "MICHAEL F ZULEVIC",
+      "grantee": "DAVID M SKINNER & MINNIE M SKINNER",
+      "date": "1996-04-11T00:00:00",
+      "price": 221000.0,
+      "deedType": "Warranty Deed Joint",
+      "book": "1333",
+      "page": "1652",
+      "isValid1": true,
+      "isImproved": true
+    },
+    {
+      "recordingNumber": "9345633",
+      "grantor": "THOMAS R BURMAN & GLORIA J BURMAN",
+      "grantee": "GLEN D BLEVINS & JEANNE M BLEVINS",
+      "date": "1993-09-23T00:00:00",
+      "price": 209000.0,
+      "deedType": "Warranty Deed",
+      "book": "1150",
+      "page": "2308",
+      "isValid1": true,
+      "isImproved": true
+    },
+    {
+      "recordingNumber": "9465664",
+      "grantor": "GLEN D BLEVINS & JEANNE M BLEVINS",
+      "grantee": "MICHAEL F ZULEVIC & KATHLEEN A ZULEVIC",
+      "date": "1994-12-15T00:00:00",
+      "price": 224800.0,
+      "deedType": "Warranty Deed Joint",
+      "book": "1237",
+      "page": "1403",
+      "isValid1": true,
+      "isImproved": true
+    },
+    {
+      "recordingNumber": "2021073089",
+      "grantor": "JOSHUA M HARVEY",
+      "grantee": "SHARON G PISANI & RONNIE P PISANI",
+      "date": "2021-06-10T00:00:00",
+      "price": 850000.0,
+      "deedType": "Warranty Deed Joint",
+      "book": null,
+      "page": null,
+      "isValid1": true,
+      "isImproved": true
+    },
+    {
+      "recordingNumber": "2019011539",
+      "grantor": "DANIEL SKINNER & JONATHAN D SKINNER",
+      "grantee": "JOSHUA M HARVEY",
+      "date": "2019-03-01T00:00:00",
+      "price": 450000.0,
+      "deedType": "Warranty Deed",
+      "book": null,
+      "page": null,
+      "isValid1": true,
+      "isImproved": true
+    },
+    {
+      "recordingNumber": "306660",
+      "grantor": "ALBERT ROSENBERG & ANN ROSENBERG",
+      "grantee": "DAVID E YAKICH & CARRIE E YAKICH",
+      "date": "1983-06-14T00:00:00",
+      "price": 15400.0,
+      "deedType": "Warranty Deed",
+      "book": "480",
+      "page": "160",
+      "isValid1": true,
+      "isImproved": false
+    },
+    {
+      "recordingNumber": "9773987",
+      "grantor": "BRAND J BOWLER & CAROL L BOWLER",
+      "grantee": "DAVID M SKINNER & MINNIE M SKINNER",
+      "date": "1997-11-07T00:00:00",
+      "price": 0.0,
+      "deedType": "Quit Claim Common",
+      "book": "1496",
+      "page": "697",
+      "isValid1": false,
+      "isImproved": true
+    },
+    {
+      "recordingNumber": "9773988",
+      "grantor": "DANIEL D SKINNER",
+      "grantee": "DAVID M SKINNER & MINNIE M SKINNER",
+      "date": "1997-11-03T00:00:00",
+      "price": 0.0,
+      "deedType": "Quit Claim Common",
+      "book": "1496",
+      "page": "698",
+      "isValid1": false,
+      "isImproved": true
+    },
+    {
+      "recordingNumber": "9800221",
+      "grantor": "DANIEL D SKINNER",
+      "grantee": "DAVID M SKINNER & MINNIE M SKINNER",
+      "date": "1997-12-19T00:00:00",
+      "price": 0.0,
+      "deedType": "Quit Claim Joint",
+      "book": "1499",
+      "page": "85",
+      "isValid1": false,
+      "isImproved": true
+    },
+    {
+      "recordingNumber": "9800222",
+      "grantor": "DAVID M SKINNER & MINNIE M SKINNER",
+      "grantee": "DAVID M SKINNER & MINNIE M SKINNER",
+      "date": "1997-12-19T00:00:00",
+      "price": 0.0,
+      "deedType": "Quit Claim",
+      "book": "1499",
+      "page": "86",
+      "isValid1": false,
+      "isImproved": false
+    }
+  ],
+  "buildings": [
+    {
+      "buildingNumber": 1.0,
+      "propertyType": "Residential",
+      "completedPercent": 1.0,
+      "quality": "Good",
+      "perimeter": 202.0,
+      "squareFeet": 1944.0,
+      "netSquareFeet": 0.0,
+      "isPrimary": true,
+      "unitType": null,
+      "approachType": "Market",
+      "conditionType": "Average",
+      "details": [
+        {
+          "type": "Fixture",
+          "subtype": "K Sink W Htr Laundry",
+          "unitCount": 1.0,
+          "builtYear": null,
+          "addonCode": null,
+          "addonCodeDescription": null
+        },
+        {
+          "type": "Fixture",
+          "subtype": "Bath 5",
+          "unitCount": 1.0,
+          "builtYear": null,
+          "addonCode": null,
+          "addonCodeDescription": null
+        },
+        {
+          "type": "Fixture",
+          "subtype": "Bath 4",
+          "unitCount": 1.0,
+          "builtYear": null,
+          "addonCode": null,
+          "addonCodeDescription": null
+        },
+        {
+          "type": "Add On",
+          "subtype": "Wet Bar Cabinets",
+          "unitCount": 1.0,
+          "builtYear": null,
+          "addonCode": "315",
+          "addonCodeDescription": "Wet Bar Cabinets"
+        },
+        {
+          "type": "Fixture",
+          "subtype": "Wet Bar",
+          "unitCount": 1.0,
+          "builtYear": null,
+          "addonCode": null,
+          "addonCodeDescription": null
+        },
+        {
+          "type": "Fixture",
+          "subtype": "Extra Fixture",
+          "unitCount": 1.0,
+          "builtYear": null,
+          "addonCode": null,
+          "addonCodeDescription": null
+        },
+        {
+          "type": "Basement",
+          "subtype": "Finished",
+          "unitCount": 1784.0,
+          "builtYear": null,
+          "addonCode": null,
+          "addonCodeDescription": null
+        },
+        {
+          "type": "Fixture",
+          "subtype": "Bsmnt Bath 3",
+          "unitCount": 1.0,
+          "builtYear": null,
+          "addonCode": null,
+          "addonCodeDescription": null
+        },
+        {
+          "type": "Porch",
+          "subtype": "Open Slab",
+          "unitCount": 96.0,
+          "builtYear": null,
+          "addonCode": null,
+          "addonCodeDescription": null
+        },
+        {
+          "type": "Porch",
+          "subtype": "Open Slab",
+          "unitCount": 132.0,
+          "builtYear": null,
+          "addonCode": null,
+          "addonCodeDescription": null
+        },
+        {
+          "type": "Basement",
+          "subtype": "Bsmnt Conc 8 ft",
+          "unitCount": 1884.0,
+          "builtYear": null,
+          "addonCode": null,
+          "addonCodeDescription": null
+        },
+        {
+          "type": "Porch",
+          "subtype": "Wood Deck",
+          "unitCount": 328.0,
+          "builtYear": null,
+          "addonCode": null,
+          "addonCodeDescription": null
+        },
+        {
+          "type": "Garage",
+          "subtype": "Attached",
+          "unitCount": 576.0,
+          "builtYear": null,
+          "addonCode": null,
+          "addonCodeDescription": null
+        },
+        {
+          "type": "Add On",
+          "subtype": "Wood Fireplace",
+          "unitCount": 2.0,
+          "builtYear": null,
+          "addonCode": "290",
+          "addonCodeDescription": "Wood Fireplace"
+        },
+        {
+          "type": "Basement",
+          "subtype": "Walkout",
+          "unitCount": 1.0,
+          "builtYear": null,
+          "addonCode": null,
+          "addonCodeDescription": null
+        }
+      ],
+      "uses": [
+        {
+          "useCode": "100",
+          "useCodeDescription": "Single Family Residential",
+          "usePercentage": 1.0,
+          "abstractCode": "1212",
+          "abstractCodeDescription": "SINGLE FAMILY RES - IMPS",
+          "abstractValue": 603097.0,
+          "isPrimary": true
+        }
+      ],
+      "styles": [
+        {
+          "styleCode": "1",
+          "styleCodeDescription": "Ranch 1 Story",
+          "builtYear": "1984",
+          "squareFeet": 1944.0,
+          "abstractCode": null,
+          "abstractCodeDescription": null,
+          "bedroomCount": 3.0,
+          "bathroomCount": 2.0,
+          "effectiveAge": null,
+          "exteriorConstructionType": "Frame Siding",
+          "floorMaterialType": "Allowance",
+          "heatType": "Central Air to Air",
+          "hvacPercent": 1.0,
+          "interiorFinishType": "Drywall",
+          "numberOfStories": 1.0,
+          "remodeledPercent": 0.45,
+          "remodeledYear": "2020",
+          "roofConstructionType": "Gable",
+          "roofMaterialType": "Composition Shingle",
+          "numberOfRooms": 3.0,
+          "sprinklerCoverageSquareFeet": 0.0,
+          "totalUnitCount": 1.0,
+          "typicalStoryHeight": 8.0,
+          "isPrimary": true,
+          "length": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "mobileHomeMake": null,
+          "mobileHomeModelType": null,
+          "mobileHomeSkirt": null,
+          "mobileHomeSkirtLinearFeet": 0.0,
+          "mobileHomeWallType": null
+        }
+      ]
+    }
+  ],
+  "landAttributes": [
+    {
+      "attributeType": "OAZ-M",
+      "attributeTypeDescription": "Open Area No Impact-M",
+      "attributeAdjustment": 1.0
+    },
+    {
+      "attributeType": "OAO-M",
+      "attributeTypeDescription": "Open Area Local-M",
+      "attributeAdjustment": 1.0
+    }
+  ],
+  "landSegments": [
+    {
+      "abstractCode": "1112",
+      "abstractCodeDescription": "IMPROVED RESIDENTIAL LAND",
+      "type": "Residential",
+      "acres": 0.246,
+      "actualValue": 164418.99
+    }
+  ],
+  "buildingPermitAuthority": {
+    "name": "Ridgeview County",
+    "phone": "303-660-7497",
+    "email": null,
+    "url": "https://www.ridgeviewcounty.example/building-permits",
+    "street": "100 Third Street",
+    "city": "Castle Rock",
+    "zipCode": "80104"
+  },
+  "novTaxYears": [
+    2026.0,
+    2025.0,
+    2024.0
+  ],
+  "ppAccount": null
+}

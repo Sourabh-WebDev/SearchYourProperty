@@ -1,0 +1,106 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: light;
+  font-size: 19px;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family:
+    system-ui,
+    -apple-system,
+    "Segoe UI",
+    Roboto,
+    sans-serif;
+  background-color: #f1f5f9;
+}
+
+@media print {
+  body {
+    background: white;
+  }
+  body * {
+    visibility: hidden;
+  }
+  #printable-report,
+  #printable-report * {
+    visibility: visible;
+  }
+  #printable-report {
+    position: absolute;
+    inset: 0;
+    padding: 32px;
+  }
+
+  /* Strip component chrome (cards, shadows, icons) so only the raw data
+     prints — same result whether Tabs or Accordion was active. */
+  #printable-report [class*="rounded-2xl"],
+  #printable-report [class*="rounded-xl"],
+  #printable-report [class*="rounded-lg"],
+  #printable-report [class*="rounded-full"] {
+    border: none !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    background: none !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  #printable-report svg,
+  #printable-report button,
+  #printable-report select,
+  #printable-report input {
+    display: none !important;
+  }
+
+  #printable-report a {
+    color: inherit !important;
+    text-decoration: none !important;
+  }
+
+  #printable-report table,
+  #printable-report th,
+  #printable-report td {
+    border-color: #ccc !important;
+  }
+}
+
+/* Same component-chrome strip as above, but always on (not just
+   @media print) — used by the Print Preview page so the on-screen
+   preview already looks exactly like the printed page. */
+.print-plain [class*="rounded-2xl"],
+.print-plain [class*="rounded-xl"],
+.print-plain [class*="rounded-lg"],
+.print-plain [class*="rounded-full"] {
+  border: none !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  background: none !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.print-plain svg,
+.print-plain button,
+.print-plain select,
+.print-plain input {
+  display: none !important;
+}
+
+.print-plain a {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+.print-plain table,
+.print-plain th,
+.print-plain td {
+  border-color: #ccc !important;
+}

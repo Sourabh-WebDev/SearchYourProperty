@@ -1,0 +1,997 @@
+{
+  "appeals": [
+    {
+      "accountNo": "R0499043",
+      "taxYear": 2020,
+      "appealNo": 202000988,
+      "decision": "Deny",
+      "reason": null
+    }
+  ],
+  "accountNumber": "R0499043",
+  "accountType": "Residential",
+  "appraisalType": "Real",
+  "stateParcelNumber": "234915205010",
+  "legalDescription": "LOT 116 STONE CREEK RANCH 1    0.172 AM/L",
+  "taxDistrictNumber": "3414",
+  "zoningCode": "PD",
+  "zoningCodeDescription": "Planned Development",
+  "defaultLea": "1CC",
+  "defaultLeaDescription": "3RD HIGHEST SUBDIVISION MARKET",
+  "totalImprovementInterestPercent": 1.0,
+  "totalLandInterestPercent": 1.0,
+  "isVacant": false,
+  "isImprovementOnly": false,
+  "isTif": false,
+  "isPlatted": true,
+  "numberOfBuildings": "1",
+  "neighborhoods": [
+    {
+      "code": "103",
+      "extension": "K"
+    }
+  ],
+  "notifications": [
+    {
+      "id": 1,
+      "note": "The 2026 Actual Value for this parcel reflects an Appraisal Date of June 30, 2024. Sale transactions that occurred after that date will be considered in the 2027 reassessment."
+    },
+    {
+      "id": 8,
+      "note": "Assessment Rates are unofficial and Mill Levies are unknown for the current year, and thus all taxes are estimates. Actual Values are published on every May 1st, while Assessment Rates are approved in the fall, and Mill Levies are certified each December."
+    }
+  ],
+  "latitude": 39.44719374,
+  "longitude": -104.77225107,
+  "elevation": null,
+  "quartersection": "NW",
+  "section": "15",
+  "township": "7",
+  "range": "66",
+  "subdivision": {
+    "name": "STONE CREEK RANCH",
+    "filingNumber": "1",
+    "recordingNumber": "2017081539"
+  },
+  "isPrivate": false,
+  "owners": [
+    {
+      "isPrimary": true,
+      "name": "JOSHUA ROBINSON & ERICA LUCILLE ROBINSON",
+      "mailingAddress": {
+        "street": "5851 SIDE SADDLE LN",
+        "street2": null,
+        "city": "PARKER",
+        "state": "CO",
+        "zipCode": "801344640"
+      }
+    }
+  ],
+  "addresses": [
+    {
+      "isPrimary": true,
+      "street": "5851 SIDE SADDLE LN ",
+      "city": "PARKER",
+      "zipCode": "80134"
+    }
+  ],
+  "taxAuthorities": [
+    {
+      "id": "0001",
+      "name": "Ridgeview County Government",
+      "pointOfContact": "Martha Marshall",
+      "contactPhone": "3036607340",
+      "street": "Ridgeview County Finance",
+      "street2": "100 Third St",
+      "city": "Castle Rock",
+      "zipCode": "80104",
+      "funds": [
+        {
+          "description": "DEVELOPMENTAL DISABILITY LEVY",
+          "millLevy": 1.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "CAPITAL EXPENDITURES FUND LEVY",
+          "millLevy": 0.15,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "SAFETY & MENTAL HEALTH",
+          "millLevy": 0.416,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "ROAD & BRIDGE FUND LEVY",
+          "millLevy": 3.731,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "RESERVE",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "SOCIAL SERVICES FUND LEVY",
+          "millLevy": 0.469,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "INFRASTRUCTURE",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 14.008,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "0002",
+      "name": "Ridgeview County Law Enforcement",
+      "pointOfContact": "Martha Marshall",
+      "contactPhone": "3036607340",
+      "street": "Ridgeview County Finance",
+      "street2": "100 Third St",
+      "city": "Castle Rock",
+      "zipCode": "80104",
+      "funds": [
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 4.5,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "CAPITAL EXPENDITURES FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "2001",
+      "name": "Ridgeview County Re-1 School District",
+      "pointOfContact": "Drew Phelps",
+      "contactPhone": "7204331123",
+      "street": null,
+      "street2": "701 Prairie Hawk Dr",
+      "city": "Castle Rock",
+      "zipCode": "80109",
+      "funds": [
+        {
+          "description": "BUILDING AND TECHNOLOGY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "BOND REDEMPTION LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.459
+        },
+        {
+          "description": "OVERRIDE MILL LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 12.293
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 27.0
+        },
+        {
+          "description": "TRANSPORTATION",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "2004",
+      "name": "Ridgeview County Schools - Debt Service",
+      "pointOfContact": "Drew Phelps",
+      "contactPhone": "7204331123",
+      "street": null,
+      "street2": "701 Prairie Hawk Dr",
+      "city": "Castle Rock",
+      "zipCode": "80109",
+      "funds": [
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "BUILDING AND TECHNOLOGY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "BOND REDEMPTION LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 5.776
+        },
+        {
+          "description": "TRANSPORTATION",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "4002",
+      "name": "Urban Drainage & Flood Control District",
+      "pointOfContact": "Terri Schafer",
+      "contactPhone": "3034556277",
+      "street": "Mile High Flood District",
+      "street2": "12575 W Bayaud Ave",
+      "city": "Lakewood",
+      "zipCode": "80228",
+      "funds": [
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.9,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "CAPITAL EXPENDITURES FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "4009",
+      "name": "Franktown Fire Protection District",
+      "pointOfContact": "David Woodrick",
+      "contactPhone": "3036883811",
+      "street": null,
+      "street2": "1959 N Hwy 83",
+      "city": "Franktown",
+      "zipCode": "80116",
+      "funds": [
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 13.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "CAPITAL EXPENDITURES FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "OTHER FUNDS LEVY",
+          "millLevy": 0.995,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "4010",
+      "name": "Regional Transportation District",
+      "pointOfContact": "Todd Nikkel",
+      "contactPhone": "3032992314",
+      "street": null,
+      "street2": "1660 Blake St, FAS-51",
+      "city": "Denver",
+      "zipCode": "80202",
+      "funds": [
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "CAPITAL EXPENDITURES FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "4011",
+      "name": "Denver SE Suburban Water & Sanitation District",
+      "pointOfContact": "Heather W Beasley",
+      "contactPhone": "3038412797",
+      "street": null,
+      "street2": "5242 Old Schoolhouse Rd",
+      "city": "Parker",
+      "zipCode": "80134",
+      "funds": [
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "CAPITAL EXPENDITURES FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "4077",
+      "name": "Ridgeview County Soil Conservation District",
+      "pointOfContact": "Pam Brewster",
+      "contactPhone": "3036883042",
+      "street": null,
+      "street2": "PO Box 688",
+      "city": "Franktown",
+      "zipCode": "80116",
+      "funds": [
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "CAPITAL EXPENDITURES FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "4340",
+      "name": "Cherry Creek Basin Water Quality Authority",
+      "pointOfContact": "Administer Cherry Creek Basin Authority",
+      "contactPhone": "3039689098",
+      "street": null,
+      "street2": "PO Box 3166",
+      "city": "Centennial",
+      "zipCode": "80161",
+      "funds": [
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": -0.05,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.5,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "CAPITAL EXPENDITURES FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "4390",
+      "name": "Ridgeview Public Library District",
+      "pointOfContact": "Bob Pasicznyuk",
+      "contactPhone": "3036887656",
+      "street": null,
+      "street2": "100 S Wilcox St",
+      "city": "Castle Rock",
+      "zipCode": "80104",
+      "funds": [
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": -0.481,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 4.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "CAPITAL EXPENDITURES FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "4392",
+      "name": "Urban Drainage & Flood South Platte",
+      "pointOfContact": "Terri Schafer",
+      "contactPhone": "3034556277",
+      "street": "Mile High Flood District",
+      "street2": "12575 W Bayaud Ave",
+      "city": "Lakewood",
+      "zipCode": "80228",
+      "funds": [
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "CAPITAL EXPENDITURES FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.1,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    },
+    {
+      "id": "4565",
+      "name": "Stone Creek Metro District",
+      "pointOfContact": "Shannon Torgerson",
+      "contactPhone": "3036932118",
+      "street": "Goodwin & Company",
+      "street2": "3151 S Vaugh Way Ste 100",
+      "city": "Aurora",
+      "zipCode": "80014",
+      "funds": [
+        {
+          "description": "CAPITAL EXPENDITURES FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "BOND REDEMPTION LEVY",
+          "millLevy": 32.852,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "REFUND / ABATEMENT LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 0.0,
+          "alternateMillLevy": 0.0
+        },
+        {
+          "description": "GENERAL FUND LEVY",
+          "millLevy": 11.534,
+          "alternateMillLevy": 0.0
+        }
+      ]
+    }
+  ],
+  "valuesByAbstractCode": [
+    {
+      "taxYear": 2026.0,
+      "abstractCode": "1112",
+      "abstractCodeDescription": "IMPROVED RESIDENTIAL LAND",
+      "netAcres": 0.172,
+      "actualValue": 189796.0,
+      "assessedValue": 12910.0,
+      "millLevy": 87.624,
+      "taxDollars": 1131.23,
+      "assessmentRate": 0.068,
+      "alternateAssessedValue": 13380.0,
+      "alternateMillLevy": 45.528,
+      "alternateTaxDollars": 609.16,
+      "alternateAssessedRate": 0.0705
+    },
+    {
+      "taxYear": 2025.0,
+      "abstractCode": "1212",
+      "abstractCodeDescription": "SINGLE FAMILY RES - IMPS",
+      "netAcres": 0.0,
+      "actualValue": 747115.0,
+      "assessedValue": 46690.0,
+      "millLevy": 87.624,
+      "taxDollars": 4091.16,
+      "assessmentRate": 0.0625,
+      "alternateAssessedValue": 52670.0,
+      "alternateMillLevy": 45.528,
+      "alternateTaxDollars": 2397.96,
+      "alternateAssessedRate": 0.0705
+    },
+    {
+      "taxYear": 2025.0,
+      "abstractCode": "1112",
+      "abstractCodeDescription": "IMPROVED RESIDENTIAL LAND",
+      "netAcres": 0.172,
+      "actualValue": 189796.0,
+      "assessedValue": 11860.0,
+      "millLevy": 87.624,
+      "taxDollars": 1039.22,
+      "assessmentRate": 0.0625,
+      "alternateAssessedValue": 13380.0,
+      "alternateMillLevy": 45.528,
+      "alternateTaxDollars": 609.16,
+      "alternateAssessedRate": 0.0705
+    },
+    {
+      "taxYear": 2026.0,
+      "abstractCode": "1212",
+      "abstractCodeDescription": "SINGLE FAMILY RES - IMPS",
+      "netAcres": 0.0,
+      "actualValue": 747115.0,
+      "assessedValue": 50800.0,
+      "millLevy": 87.624,
+      "taxDollars": 4451.3,
+      "assessmentRate": 0.068,
+      "alternateAssessedValue": 52670.0,
+      "alternateMillLevy": 45.528,
+      "alternateTaxDollars": 2397.96,
+      "alternateAssessedRate": 0.0705
+    },
+    {
+      "taxYear": 2024.0,
+      "abstractCode": "1212",
+      "abstractCodeDescription": "SINGLE FAMILY RES - IMPS",
+      "netAcres": 0.0,
+      "actualValue": 772015.0,
+      "assessedValue": 51730.0,
+      "millLevy": 132.879,
+      "taxDollars": 6873.83,
+      "assessmentRate": 0.067,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2024.0,
+      "abstractCode": "1112",
+      "abstractCodeDescription": "IMPROVED RESIDENTIAL LAND",
+      "netAcres": 0.172,
+      "actualValue": 159636.0,
+      "assessedValue": 10700.0,
+      "millLevy": 132.879,
+      "taxDollars": 1421.81,
+      "assessmentRate": 0.067,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2023.0,
+      "abstractCode": "1212",
+      "abstractCodeDescription": "SINGLE FAMILY RES - IMPS",
+      "netAcres": 0.0,
+      "actualValue": 772015.0,
+      "assessedValue": 51730.0,
+      "millLevy": 133.027,
+      "taxDollars": 6881.49,
+      "assessmentRate": 0.067,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2023.0,
+      "abstractCode": "1112",
+      "abstractCodeDescription": "IMPROVED RESIDENTIAL LAND",
+      "netAcres": 0.172,
+      "actualValue": 159636.0,
+      "assessedValue": 10700.0,
+      "millLevy": 133.027,
+      "taxDollars": 1423.39,
+      "assessmentRate": 0.067,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2022.0,
+      "abstractCode": "1212",
+      "abstractCodeDescription": "SINGLE FAMILY RES - IMPS",
+      "netAcres": 0.0,
+      "actualValue": 529231.0,
+      "assessedValue": 36780.0,
+      "millLevy": 153.033,
+      "taxDollars": 5628.55,
+      "assessmentRate": 0.0695,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2022.0,
+      "abstractCode": "1112",
+      "abstractCodeDescription": "IMPROVED RESIDENTIAL LAND",
+      "netAcres": 0.172,
+      "actualValue": 104085.0,
+      "assessedValue": 7230.0,
+      "millLevy": 153.033,
+      "taxDollars": 1106.43,
+      "assessmentRate": 0.0695,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2021.0,
+      "abstractCode": "1212",
+      "abstractCodeDescription": "SINGLE FAMILY RES - IMPS",
+      "netAcres": 0.0,
+      "actualValue": 92426.0,
+      "assessedValue": 6610.0,
+      "millLevy": 152.132,
+      "taxDollars": 1005.59,
+      "assessmentRate": 0.0715,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2021.0,
+      "abstractCode": "1112",
+      "abstractCodeDescription": "IMPROVED RESIDENTIAL LAND",
+      "netAcres": 0.172,
+      "actualValue": 104085.0,
+      "assessedValue": 7440.0,
+      "millLevy": 152.132,
+      "taxDollars": 1131.86,
+      "assessmentRate": 0.0715,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2020.0,
+      "abstractCode": "0100",
+      "abstractCodeDescription": "RESIDENTIAL VACANT LOTS",
+      "netAcres": 0.172,
+      "actualValue": 70695.0,
+      "assessedValue": 20500.0,
+      "millLevy": 152.59,
+      "taxDollars": 3128.1,
+      "assessmentRate": 0.29,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2019.0,
+      "abstractCode": "0100",
+      "abstractCodeDescription": "RESIDENTIAL VACANT LOTS",
+      "netAcres": 0.172,
+      "actualValue": 54877.0,
+      "assessedValue": 15910.0,
+      "millLevy": 152.991,
+      "taxDollars": 2434.09,
+      "assessmentRate": 0.29,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    },
+    {
+      "taxYear": 2018.0,
+      "abstractCode": "4123",
+      "abstractCodeDescription": "DRY AG",
+      "netAcres": 0.0,
+      "actualValue": 0.0,
+      "assessedValue": 0.0,
+      "millLevy": 153.876,
+      "taxDollars": 0.0,
+      "assessmentRate": 0.29,
+      "alternateAssessedValue": 0.0,
+      "alternateMillLevy": 0.0,
+      "alternateTaxDollars": 0.0,
+      "alternateAssessedRate": 0.0
+    }
+  ],
+  "sales": [
+    {
+      "recordingNumber": "2021041973",
+      "grantor": "RICHMOND AMERICAN HOMES OF COLORADO INC",
+      "grantee": "JOSHUA ROBINSON & ERICA LUCILLE ROBINSON",
+      "date": "2021-03-24T00:00:00",
+      "price": 699533.0,
+      "deedType": "Special Warranty Deed Joint",
+      "book": null,
+      "page": null,
+      "isValid1": true,
+      "isImproved": true
+    },
+    {
+      "recordingNumber": "2018013717",
+      "grantor": "CHOKE CHERRY INVESTORS LLC",
+      "grantee": "RICHMOND AMERICAN HOMES OF COLORADO INC",
+      "date": "2018-03-06T00:00:00",
+      "price": 19155000.0,
+      "deedType": "Special Warranty Deed",
+      "book": null,
+      "page": null,
+      "isValid1": false,
+      "isImproved": false
+    }
+  ],
+  "buildings": [
+    {
+      "buildingNumber": 1.0,
+      "propertyType": "Residential",
+      "completedPercent": 1.0,
+      "quality": "Average",
+      "perimeter": 264.0,
+      "squareFeet": 2902.0,
+      "netSquareFeet": 0.0,
+      "isPrimary": true,
+      "unitType": null,
+      "approachType": "Market",
+      "conditionType": "Average",
+      "details": [
+        {
+          "type": "Add On",
+          "subtype": "Solar Panel System - Residential",
+          "unitCount": 2902.0,
+          "builtYear": "2021",
+          "addonCode": "365",
+          "addonCodeDescription": "Solar Panel System - Residential"
+        },
+        {
+          "type": "Basement",
+          "subtype": "Finished",
+          "unitCount": 2412.0,
+          "builtYear": null,
+          "addonCode": null,
+          "addonCodeDescription": null
+        },
+        {
+          "type": "Add On",
+          "subtype": "Fireplace - Gas",
+          "unitCount": 1.0,
+          "builtYear": "2021",
+          "addonCode": "95",
+          "addonCodeDescription": "Fireplace - Gas"
+        },
+        {
+          "type": "Fixture",
+          "subtype": "Bsmnt Bath 3",
+          "unitCount": 1.0,
+          "builtYear": null,
+          "addonCode": null,
+          "addonCodeDescription": null
+        },
+        {
+          "type": "Fixture",
+          "subtype": "Bath 4",
+          "unitCount": 2.0,
+          "builtYear": null,
+          "addonCode": null,
+          "addonCodeDescription": null
+        },
+        {
+          "type": "Fixture",
+          "subtype": "Bath 2",
+          "unitCount": 1.0,
+          "builtYear": null,
+          "addonCode": null,
+          "addonCodeDescription": null
+        },
+        {
+          "type": "Fixture",
+          "subtype": "K Sink W Htr Laundry",
+          "unitCount": 1.0,
+          "builtYear": null,
+          "addonCode": null,
+          "addonCodeDescription": null
+        },
+        {
+          "type": "Basement",
+          "subtype": "Bsmnt Conc 9 ft",
+          "unitCount": 2902.0,
+          "builtYear": null,
+          "addonCode": null,
+          "addonCodeDescription": null
+        },
+        {
+          "type": "Porch",
+          "subtype": "Slab Roof Ceil",
+          "unitCount": 200.0,
+          "builtYear": null,
+          "addonCode": null,
+          "addonCodeDescription": null
+        },
+        {
+          "type": "Porch",
+          "subtype": "Slab Roof Ceil",
+          "unitCount": 43.0,
+          "builtYear": null,
+          "addonCode": null,
+          "addonCodeDescription": null
+        },
+        {
+          "type": "Garage",
+          "subtype": "Attached",
+          "unitCount": 664.0,
+          "builtYear": null,
+          "addonCode": null,
+          "addonCodeDescription": null
+        }
+      ],
+      "uses": [
+        {
+          "useCode": "100",
+          "useCodeDescription": "Single Family Residential",
+          "usePercentage": 1.0,
+          "abstractCode": "1212",
+          "abstractCodeDescription": "SINGLE FAMILY RES - IMPS",
+          "abstractValue": 747115.0,
+          "isPrimary": null
+        }
+      ],
+      "styles": [
+        {
+          "styleCode": "1",
+          "styleCodeDescription": "Ranch 1 Story",
+          "builtYear": "2021",
+          "squareFeet": 2902.0,
+          "abstractCode": null,
+          "abstractCodeDescription": null,
+          "bedroomCount": 3.0,
+          "bathroomCount": 3.0,
+          "effectiveAge": null,
+          "exteriorConstructionType": "Frame Siding",
+          "floorMaterialType": "Allowance",
+          "heatType": "Central Air to Air",
+          "hvacPercent": 1.0,
+          "interiorFinishType": "Drywall",
+          "numberOfStories": 1.0,
+          "remodeledPercent": 0.0,
+          "remodeledYear": null,
+          "roofConstructionType": "Gable",
+          "roofMaterialType": "Composition Shingle",
+          "numberOfRooms": 4.0,
+          "sprinklerCoverageSquareFeet": 0.0,
+          "totalUnitCount": 1.0,
+          "typicalStoryHeight": 9.0,
+          "isPrimary": null,
+          "length": 0.0,
+          "width": 0.0,
+          "height": 0.0,
+          "mobileHomeMake": null,
+          "mobileHomeModelType": null,
+          "mobileHomeSkirt": null,
+          "mobileHomeSkirtLinearFeet": 0.0,
+          "mobileHomeWallType": "2X4"
+        }
+      ]
+    }
+  ],
+  "landAttributes": [
+    {
+      "attributeType": "OAO-M",
+      "attributeTypeDescription": "Open Area Local-M",
+      "attributeAdjustment": 1.0
+    },
+    {
+      "attributeType": "OAL-M",
+      "attributeTypeDescription": "Open Area Low Impact-M",
+      "attributeAdjustment": 1.03
+    }
+  ],
+  "landSegments": [
+    {
+      "abstractCode": "1112",
+      "abstractCodeDescription": "IMPROVED RESIDENTIAL LAND",
+      "type": "Residential",
+      "acres": 0.172,
+      "actualValue": 189795.84
+    }
+  ],
+  "buildingPermitAuthority": {
+    "name": "Ridgeview County",
+    "phone": "303-660-7497",
+    "email": null,
+    "url": "https://www.ridgeviewcounty.example/building-permits",
+    "street": "100 Third Street",
+    "city": "Castle Rock",
+    "zipCode": "80104"
+  },
+  "novTaxYears": [
+    2026.0,
+    2025.0,
+    2024.0
+  ],
+  "ppAccount": null
+}

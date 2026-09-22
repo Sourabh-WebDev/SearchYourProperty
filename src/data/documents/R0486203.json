@@ -1,0 +1,102 @@
+{
+  "name": "R0486203",
+  "directories": [
+    {
+      "name": "Notices of Value",
+      "type": "directory",
+      "files": [
+        {
+          "downloadUrl": null,
+          "sizeInBytes": 331621,
+          "fileExtension": ".pdf",
+          "lastModified": "2020-06-18T21:03:43.8783335-06:00",
+          "sizeWithUnits": "323.8KB",
+          "name": "R0486203_NOV_2017.pdf",
+          "type": "file"
+        },
+        {
+          "downloadUrl": null,
+          "sizeInBytes": 331777,
+          "fileExtension": ".pdf",
+          "lastModified": "2020-06-18T05:08:12.6936269-06:00",
+          "sizeWithUnits": "324KB",
+          "name": "R0486203_NOV_2018.pdf",
+          "type": "file"
+        },
+        {
+          "downloadUrl": null,
+          "sizeInBytes": 333335,
+          "fileExtension": ".pdf",
+          "lastModified": "2020-06-15T21:41:00.753386-06:00",
+          "sizeWithUnits": "325.5KB",
+          "name": "R0486203_NOV_2019.pdf",
+          "type": "file"
+        },
+        {
+          "downloadUrl": null,
+          "sizeInBytes": 332939,
+          "fileExtension": ".pdf",
+          "lastModified": "2020-06-12T06:56:05.3725636-06:00",
+          "sizeWithUnits": "325.1KB",
+          "name": "R0486203_NOV_2020.pdf",
+          "type": "file"
+        },
+        {
+          "downloadUrl": null,
+          "sizeInBytes": 333161,
+          "fileExtension": ".pdf",
+          "lastModified": "2021-07-07T20:44:29.0938889-06:00",
+          "sizeWithUnits": "325.4KB",
+          "name": "R0486203_NOV_2021.pdf",
+          "type": "file"
+        },
+        {
+          "downloadUrl": null,
+          "sizeInBytes": 123090,
+          "fileExtension": ".pdf",
+          "lastModified": "2022-04-21T17:53:56.4917958-06:00",
+          "sizeWithUnits": "120.2KB",
+          "name": "R0486203_NOV_2022.pdf",
+          "type": "file"
+        },
+        {
+          "downloadUrl": null,
+          "sizeInBytes": 132794,
+          "fileExtension": ".pdf",
+          "lastModified": "2023-05-01T12:51:58.2475931-06:00",
+          "sizeWithUnits": "129.7KB",
+          "name": "R0486203_NOV_2023.pdf",
+          "type": "file"
+        },
+        {
+          "downloadUrl": null,
+          "sizeInBytes": 142197,
+          "fileExtension": ".pdf",
+          "lastModified": "2024-04-23T15:27:17.3412132-06:00",
+          "sizeWithUnits": "138.9KB",
+          "name": "R0486203_NOV_2024.pdf",
+          "type": "file"
+        },
+        {
+          "downloadUrl": null,
+          "sizeInBytes": 154500,
+          "fileExtension": ".pdf",
+          "lastModified": "2025-04-29T08:03:46.3397574-06:00",
+          "sizeWithUnits": "150.9KB",
+          "name": "R0486203_NOV_2025.pdf",
+          "type": "file"
+        },
+        {
+          "downloadUrl": null,
+          "sizeInBytes": 155433,
+          "fileExtension": ".pdf",
+          "lastModified": "2026-04-24T16:53:08.7427038-06:00",
+          "sizeWithUnits": "151.8KB",
+          "name": "R0486203_NOV_2026.pdf",
+          "type": "file"
+        }
+      ],
+      "directories": []
+    }
+  ]
+}
